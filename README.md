@@ -67,11 +67,6 @@ python main.py
 - HLTV.org - Informações sobre jogadores, estatísticas e partidas
 - TheMove.gg - Notícias e atualizações do cenário
 
-## ⚠️ Limitações
-
-- O bot depende de conexão com a internet
-- As fontes de dados podem ter limitações de acesso
-- O WebDriver precisa estar atualizado e compatível com o Chrome
 
 ## 🤝 Contribuindo
 
