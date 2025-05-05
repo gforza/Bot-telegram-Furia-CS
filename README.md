@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-Aviso: Por favor, adicione o token do bot no codigo, substitua "em bot = telebot.TeleBot('Coloque o token do bot aqui')"
-( Caso seje o avaliador da furia lendo isso, coloquei o token em "Espaço aberto para observações gerais")
-=======
+
 Aviso: para executar o código é necessario adicionar o token do bot no código
->>>>>>> 54e64b9a70c4c8cb98f20701de358e305ed2b502
 
 # 🤖 Bot da FURIA - Telegram
 
