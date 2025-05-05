@@ -1,3 +1,5 @@
+Aviso: para executar o código é necessario adicionar o token do bot no código
+
 # 🤖 Bot da FURIA - Telegram
 
 Um bot do Telegram que fornece informações atualizadas sobre a FURIA no cenário de Counter-Strike.
