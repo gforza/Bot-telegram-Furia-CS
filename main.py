@@ -9,7 +9,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 
-bot = telebot.TeleBot('7637774771:AAGk9En3TfBU4_fCWvSSiM46Juc_5BaGBsE')
+bot = telebot.TeleBot('Coloque o token do bot aqui')
 
 def setup_selenium():
     chrome_options = Options()

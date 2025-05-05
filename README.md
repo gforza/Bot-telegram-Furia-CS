@@ -1,3 +1,6 @@
+Aviso: Por favor, adicione o token do bot no codigo, substitua "em bot = telebot.TeleBot('Coloque o token do bot aqui')"
+( Caso seje o avaliador da furia lendo isso, coloquei o token em "Espaço aberto para observações gerais")
+
 # 🤖 Bot da FURIA - Telegram
 
 Um bot do Telegram que fornece informações atualizadas sobre a FURIA no cenário de Counter-Strike.
